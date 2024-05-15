@@ -13,9 +13,13 @@
     "@nuxtjs/tailwindcss": "^6.12.0",
     "@pinia/nuxt": "^0.5.1",
     "nuxt": "^3.11.2",
+    "ol": "^9.1.0",
+    "ol-contextmenu": "^5.4.0",
+    "ol-ext": "^4.0.18",
     "pinia": "^2.1.7",
     "vue": "^3.4.27",
-    "vue-router": "^4.3.2"
+    "vue-router": "^4.3.2",
+    "vue3-openlayers": "^9.0.0"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config-typescript": "^12.1.0",
